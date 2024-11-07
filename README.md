@@ -1,0 +1,1 @@
+This code is associated with our paper, titled "EEG-Based Over-Complete Rational Dilation Wavelet Transform Coupled with Autoregressive for Motor Imagery Classification," currently under review in Expert Systems with Applications. We are working to make the code executable, which will require downloading the data used in this study.
